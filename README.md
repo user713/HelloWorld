@@ -9,3 +9,6 @@ c.	The program should support future enhancements for writing to a database, con
 i.	Use common design patterns (inheritance, e.g.) to account for these future concerns. 
 ii.	Use configuration files or another industry-standard mechanism for determining where to write the information to. 
 Write unit tests to support the API.
+
+# Running the Program
+To run this program locally, first start up the WebApi project, then run the console program.
